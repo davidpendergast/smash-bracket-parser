@@ -1,0 +1,792 @@
+smash.gg
+
+    Tournaments
+    Rankings
+
+Login · Signup
+
+    Login
+    Register
+
+Email
+Password
+ Keep me logged in
+Forgot Password?
+smash.gg
+Tournaments
+
+    The Melee Games
+    Smash 4 Collegiate
+
+Rankings
+
+    Active Events
+    No upcoming events
+    View Tournaments
+        Your Past Tournaments
+    Profile Settings
+        Gamertag
+        Social Media
+    Account Settings
+        Contact and Addresses
+        Change Password
+        Your Orders
+    Logout
+
+Cincinnati Smash Classic V
+June 25-25th
+
+    Details
+    Brackets
+    Attendees
+
+Melee Singles / Bracket 
+Projected
+ 
+
+    BracketStandings
+
+Pools A1
+Pools A7
+Pools A8
+Pools A2
+Pools B8
+Pools B2
+Pools B1
+Pools B7
+Pools B4
+Pools B6
+Pools B5
+Pools B3
+Pools A5
+Pools A3
+Pools A4
+Pools A6
+Pools B2
+Pools B8
+Pools B7
+Pools B1
+Pools A7
+Pools A1
+Pools A2
+Pools A8
+Pools A3
+Pools A5
+Pools A6
+Pools A4
+Pools B6
+Pools B4
+Pools B3
+Pools B5
+Pools B1
+Pools B7
+Pools B8
+Pools B2
+Pools A8
+Pools A2
+Pools A1
+Pools A7
+Pools A4
+Pools A6
+Pools A5
+Pools A3
+Pools B5
+Pools B3
+Pools B4
+Pools B6
+Pools A2
+Pools A8
+Pools A7
+Pools A1
+Pools B7
+Pools B1
+Pools B2
+Pools B8
+Pools B3
+Pools B5
+Pools B6
+Pools B4
+Pools A6
+Pools A4
+Pools A3
+Pools A5
+Winners Round 1
+Top 64
+Hanky Panky
+2
+Crawshaw
+0
+A
+Deep Fox
+2
+I-19
+0
+B
+Cob
+2
+Danbo
+0
+C
+Varkid
+2
+Simian
+0
+D
+Signd0g
+2
+Doppler12
+0
+E
+EGJ
+2
+Costanza
+0
+F
+Sephy
+2
+CPU?
+0
+G
+Snap
+2
+JiP
+0
+H
+Amida
+2
+sweetness
+0
+I
+Village Mascot
+2
+Biff$$$$
+0
+J
+Gemini
+2
+stringbean
+0
+K
+BY15
+2
+Blahguy
+1
+L
+TheRealThing
+2
+Kidbuu42
+0
+M
+Jerry
+2
+Dirac
+0
+N
+Fooly
+2
+Plautus
+0
+O
+.Ðempt
+2
+Status
+0
+P
+Drephen
+NightPoster
+DQ
+Q
+toastyb
+2
+Cablebox
+0
+R
+Suidt
+2
+Treadwell
+0
+S
+Decaf
+2
+Freky
+0
+T
+Wolven
+2
+GibS
+0
+U
+Ogie
+0
+notMitch
+2
+V
+FEAR
+2
+EmceeCurtis
+0
+W
+Papa
+2
+StoneyB
+1
+X
+Fizzle_Boy
+2
+Christ Himself
+0
+Y
+Megachuk
+2
+Ecco
+0
+Z
+Ralis
+2
+Windex
+0
+AA
+Halfjack
+2
+Huckleberry Dog
+0
+AB
+Dunx
+Seeze
+DQ
+AC
+Ted
+2
+Caveman?
+1
+AD
+Team Nick
+2
+Clef
+0
+AE
+Sneker
+2
+DerfMidWest
+1
+AF
+Winners Round 2
+Top 48
+Hanky Panky
+2
+Deep Fox
+0
+AG
+Cob
+2
+Varkid
+0
+AH
+Signd0g
+2
+EGJ
+0
+AI
+Sephy
+0
+Snap
+2
+AJ
+Amida
+2
+Village Mascot
+0
+AK
+Gemini
+2
+BY15
+0
+AL
+TheRealThing
+2
+Jerry
+0
+AM
+Fooly
+2
+.Ðempt
+0
+AN
+Drephen
+2
+toastyb
+0
+AO
+Suidt
+2
+Decaf
+1
+AP
+Wolven
+1
+notMitch
+2
+AQ
+FEAR
+2
+Papa
+0
+AR
+Fizzle_Boy
+2
+Megachuk
+0
+AS
+Ralis
+2
+Halfjack
+0
+AT
+Dunx
+2
+Ted
+0
+AU
+Team Nick
+0
+Sneker
+2
+AV
+Winners Round 3
+Top 24
+Hanky Panky
+2
+Cob
+0
+AW
+Signd0g
+0
+Snap
+2
+AX
+Amida
+2
+Gemini
+0
+AY
+TheRealThing
+2
+Fooly
+0
+AZ
+Drephen
+2
+Suidt
+0
+BA
+notMitch
+0
+FEAR
+2
+BB
+Fizzle_Boy
+2
+Ralis
+1
+BC
+Dunx
+1
+Sneker
+2
+BD
+Winners Quarter-Final
+Top 12
+Hanky Panky
+2
+Snap
+0
+BE
+Amida
+2
+TheRealThing
+1
+BF
+Drephen
+2
+FEAR
+0
+BG
+Fizzle_Boy
+2
+Sneker
+0
+BH
+Winners Semi-Final
+Top 6
+Hanky Panky
+3
+Amida
+0
+BI
+Drephen
+3
+Fizzle_Boy
+0
+BJ
+Winners Final
+Top 3
+Hanky Panky
+1
+Drephen
+3
+BK
+Grand Final
+Top 2
+Drephen
+2
+Hanky Panky
+3
+BL
+Hanky Panky
+Drephen
+BM
+Losers Round 1
+Top 64
+Crawshaw
+0
+I-19
+2
+DZ
+Danbo
+2
+Simian
+1
+EA
+Doppler12
+2
+Costanza
+0
+EB
+CPU?
+2
+JiP
+1
+EC
+sweetness
+0
+Biff$$$$
+2
+ED
+stringbean
+0
+Blahguy
+2
+EE
+Kidbuu42
+0
+Dirac
+2
+EF
+Plautus
+2
+Status
+0
+EG
+NightPoster
+DQ
+Cablebox
+EH
+Treadwell
+0
+Freky
+2
+EI
+GibS
+0
+Ogie
+2
+EJ
+EmceeCurtis
+0
+StoneyB
+2
+EK
+Christ Himself
+0
+Ecco
+2
+EL
+Windex
+2
+Huckleberry Dog
+0
+EM
+Seeze
+DQ
+Caveman?
+EN
+Clef
+2
+DerfMidWest
+1
+EO
+Losers Round 2
+Top 48
+Team Nick
+2
+I-19
+0
+EP
+Ted
+2
+Danbo
+0
+EQ
+Halfjack
+2
+Doppler12
+0
+ER
+Megachuk
+2
+CPU?
+0
+ES
+Papa
+2
+Biff$$$$
+0
+ET
+Wolven
+2
+Blahguy
+1
+EU
+Decaf
+2
+Dirac
+0
+EV
+toastyb
+2
+Plautus
+0
+EW
+.Ðempt
+2
+Cablebox
+1
+EX
+Jerry
+2
+Freky
+1
+EY
+BY15
+2
+Ogie
+0
+EZ
+Village Mascot
+2
+StoneyB
+0
+FA
+Sephy
+2
+Ecco
+0
+FB
+EGJ
+2
+Windex
+0
+FC
+Varkid
+2
+Caveman?
+0
+FD
+Deep Fox
+2
+Clef
+1
+FE
+Losers Round 3
+Top 32
+Team Nick
+0
+Ted
+2
+FF
+Halfjack
+2
+Megachuk
+1
+FG
+Papa
+0
+Wolven
+2
+FH
+Decaf
+0
+toastyb
+2
+FI
+.Ðempt
+2
+Jerry
+1
+FJ
+BY15
+2
+Village Mascot
+0
+FK
+Sephy
+2
+EGJ
+0
+FL
+Varkid
+0
+Deep Fox
+2
+FM
+Losers Round 4
+Top 24
+Fooly
+2
+Ted
+0
+FN
+Gemini
+2
+Halfjack
+1
+FO
+Signd0g
+2
+Wolven
+0
+FP
+Cob
+2
+toastyb
+1
+FQ
+Dunx
+1
+.Ðempt
+2
+FR
+Ralis
+2
+BY15
+0
+FS
+notMitch
+0
+Sephy
+2
+FT
+Suidt
+2
+Deep Fox
+0
+FU
+Losers Round 5
+Top 16
+Fooly
+2
+Gemini
+0
+FV
+Signd0g
+1
+Cob
+2
+FW
+.Ðempt
+2
+Ralis
+0
+FX
+Sephy
+2
+Suidt
+0
+FY
+Losers Round 6
+Top 12
+FEAR
+1
+Fooly
+2
+FZ
+Sneker
+0
+Cob
+2
+GA
+Snap
+2
+.Ðempt
+0
+GB
+TheRealThing
+2
+Sephy
+1
+GC
+Losers Round 7
+Top 8
+Fooly
+3
+Cob
+2
+GD
+Snap
+0
+TheRealThing
+3
+GE
+Losers Quarter-Final
+Top 6
+Amida
+3
+Fooly
+1
+GF
+Fizzle_Boy
+1
+TheRealThing
+3
+GG
+Losers Semi-Final
+Top 4
+Amida
+3
+TheRealThing
+2
+GH
+Losers Final
+Top 3
+Hanky Panky
+3
+Amida
+2
+GI
+smash.gg
+Connect
+Facebook
+Twitter
+Twitch
+Network
+Twitch
+Liquipedia
+Smashboards
+MeleeItOnMe
+Contact
+Submit Your Tournament
+Submit A Ranking
+Report An Issue
+Report DMCA or Inappropriate Content
+Need help?
+Copyright © 2016 Smash.gg – All rights reserved.   Terms of Service and Privacy Policy
