@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * @author dpendergast
+ */
 public class Name {
 	
 	public String name;
@@ -29,6 +32,10 @@ public class Name {
 			return ((Name)o).name.equals(name);
 		}
 		return false;
+	}
+	
+	public int hashCode() {
+		return name.hashCode();
 	}
 	
 	public String toString() {

@@ -11,6 +11,9 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ * @author dpendergast
+ */
 public class Parser {
 	
 	static String nameFile = "names.txt";
@@ -18,6 +21,7 @@ public class Parser {
 	static List<Name> names;
 	
 	static int maxNumPlayers = 100;
+	
 	
 	static Map<Pair<Name,Name>, Integer> winCount = new HashMap<Pair<Name,Name>, Integer>();
 	
